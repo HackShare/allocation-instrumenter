@@ -2,6 +2,11 @@ The Allocation Instrumenter is a Java agent written using the [java.lang.instrum
 [ASM][]. Each allocation in your Java program is instrumented; a user-defined callback is invoked
 on each allocation.
 
+## Coverage on Blog and Stackoverflow
+
+http://stackoverflow.com/questions/2457059/how-to-profile-object-creation-in-java
+http://jeremymanson.blogspot.com/2009/12/allocation-instrumenter-for-java_10.html
+
 ## How to get it
 
 The [latest release][] is available from [Maven Central][] as:
